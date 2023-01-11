@@ -1,4 +1,4 @@
 numpy
 pickle5
 Flask
-sklearn
+scikit-learn
