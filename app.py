@@ -2,6 +2,7 @@
 from flask import Flask, render_template, request
 import pickle5 as pickle
 import numpy as np
+import sklearn
 
 # Load the Random Forest CLassifier model
 filename = 'heart-disease-prediction-knn-model.pkl'
