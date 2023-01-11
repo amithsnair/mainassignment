@@ -1,6 +1,3 @@
-pandas
-numpy 
-sklearn
-matplotlib
+numpy
 pickle5
 Flask
